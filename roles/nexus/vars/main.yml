@@ -1,0 +1,16 @@
+---
+
+timezone: UTC
+
+# NTP servers
+ntp_server1: pool.ntp.org
+ntp_server2: pool.ntp.org
+ntp_server3: ntp.ubuntu.com # fallback
+
+# NEXUS
+nexus:
+  version: 3.0.0-03
+  unpackaged_version: 3.0.0-03
+  base_dir: /opt
+  home: /opt/nexus
+  data_dir: /data
