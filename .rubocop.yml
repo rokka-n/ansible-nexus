@@ -1,0 +1,6 @@
+Metrics/CyclomaticComplexity:
+  Severity: warning
+
+Style/RegexpLiteral:
+  Exclude:
+    - 'spec/default_spec.rb'
