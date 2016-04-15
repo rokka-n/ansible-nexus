@@ -120,7 +120,7 @@ vagrant:
         - group_1
         - group_2
       interfaces:
-        - network_name: public_network
+        - network_name: private_network
           type: dhcp
           auto_config: true
       options:
