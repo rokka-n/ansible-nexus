@@ -39,5 +39,3 @@ BSD
 Author Information
 ------------------
 Roman Naumenko
-
-Gliffy
