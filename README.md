@@ -29,7 +29,7 @@ playbook.yml comes with a ref to nexus role.
 - hosts: all
   roles:
       - role: nexus
-      ```
+```
 
 License
 -------
